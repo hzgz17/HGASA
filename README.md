@@ -1,2 +1,2 @@
 # HGASA
-Hybrid genetic general variable neighborhood search
+Hybrid genetic simulated annealing
